@@ -1,0 +1,33 @@
+{
+  "identifier" : "BAEE151F",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : false,
+      "internalID" : "B35F593A",
+      "localizations" : [
+        {
+          "description" : "Enable premium world functionality",
+          "displayName" : "Purchase Premium World",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.premium.world2",
+      "referenceName" : "Premium World",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 1
+  }
+}
