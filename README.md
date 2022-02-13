@@ -12,3 +12,7 @@ let products = try await Product.products(for: ["com.premium.world1"])
 
 5. Deploy and try.
 6. You have to change uniqueString every time because it's a non-consumable In-App Purchase
+
+Gif
+
+![In-App Purchase Demo](https://user-images.githubusercontent.com/32461567/153755550-1c6904b2-cbbb-4d77-8a79-20c8c35ed181.gif)
